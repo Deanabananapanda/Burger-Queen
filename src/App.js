@@ -11,7 +11,7 @@ function App() {
       <h1>Interstellar</h1>
       </header>
      < a href="/Menu">
-     <button>HOLA</button>
+     <button></button>
      </a>
       <Routes />
       
