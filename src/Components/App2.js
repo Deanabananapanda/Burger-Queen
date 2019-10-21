@@ -6,7 +6,6 @@ import RedirectFromMenuToSendOrder from './RedirectFromMenuToSendOrder';
 
 
 class App2 extends Component {
-
   constructor(props){
     super(props);
     this.state = {
@@ -26,7 +25,7 @@ class App2 extends Component {
       ]
     }
   }
-
+  
   _remove(position){
     let { data } = this.state;
 
